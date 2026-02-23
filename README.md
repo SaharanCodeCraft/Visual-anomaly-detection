@@ -1,4 +1,4 @@
-# Visual Anomaly Detection System
+# Normexa
 
 ## 🚀 Overview
 
