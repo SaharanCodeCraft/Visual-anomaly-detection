@@ -1,6 +1,6 @@
 # Normexa
 
-## 🚀 Overview
+##  Overview
 
 This project implements an unsupervised visual anomaly detection system that learns normal visual patterns and flags unseen defects without requiring labeled anomaly data.
 
@@ -10,7 +10,7 @@ This approach reflects real-world industrial and medical inspection scenarios wh
 
 ---
 
-## 🧠 Core Idea
+##  Core Idea
 
 Train only on normal images.
 
@@ -20,7 +20,7 @@ Image → Feature Learning → Normality Modeling → Anomaly Score → Heatmap 
 
 ---
 
-## 🎯 Key Features (Planned)
+## Key Features (Planned)
 
 - Unsupervised training on normal images
 - Image-level anomaly score
@@ -31,7 +31,7 @@ Image → Feature Learning → Normality Modeling → Anomaly Score → Heatmap 
 
 ---
 
-## 🏭 Real-World Applications
+## Real-World Applications
 
 - Industrial quality inspection
 - Medical image pre-screening
