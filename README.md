@@ -200,8 +200,4 @@ http://localhost:5173
 
 Developed for academic, research, and portfolio purposes.
 
----
 
-### 👨‍💻 Author
-
-Samy — BTech CSE |
