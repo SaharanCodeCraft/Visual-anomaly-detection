@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Normexa | Unsupervised Anomaly Detection System 🧠🔍
 
 ![Platform](https://img.shields.io/badge/Platform-Web%20Dashboard-informational)
